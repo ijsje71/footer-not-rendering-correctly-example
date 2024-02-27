@@ -1,0 +1,7 @@
+{
+  "name": "ModalTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
